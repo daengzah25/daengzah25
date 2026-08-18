@@ -10,13 +10,17 @@
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=45" width="100%"/>
+</div>
 
 ### 01 / Tentang
 
 Developer yang fokus membangun produk di sisi **mobile, web, dan IoT**. Aktif mengeksplorasi berbagai bahasa pemrograman dan framework, serta menjalankan **DAEZAH Company** — startup yang membangun website, aplikasi mobile, dan UI/UX design.
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=45" width="100%"/>
+</div>
 
 ### 02 / Bahasa Pemrograman
 
@@ -34,7 +38,9 @@ Developer yang fokus membangun produk di sisi **mobile, web, dan IoT**. Aktif me
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=45" width="100%"/>
+</div>
 
 ### 03 / Framework
 
@@ -57,7 +63,9 @@ Developer yang fokus membangun produk di sisi **mobile, web, dan IoT**. Aktif me
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=45" width="100%"/>
+</div>
 
 ### 04 / Database
 
@@ -71,7 +79,9 @@ Developer yang fokus membangun produk di sisi **mobile, web, dan IoT**. Aktif me
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=45" width="100%"/>
+</div>
 
 ### 05 / Proyek
 
@@ -101,7 +111,10 @@ Automasi workflow yang dijalankan secara lokal.
 
 _Selain proyek di atas, ada beberapa project lokal lainnya yang masih belum selesai atau sudah berhenti dikerjakan._
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=45" width="100%"/>
+</div>
+
 ### 06 / Kontak
 
 <div align="left">
