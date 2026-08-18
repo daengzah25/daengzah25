@@ -4,6 +4,10 @@
 
 <sub>Software Engineer — Mobile · Web · IoT</sub>
 
+<br>
+
+![snake animation](https://raw.githubusercontent.com/daengzah25/daengzah25/output/github-snake.svg)
+
 </div>
 
 <br>
